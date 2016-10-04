@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CU Night Ride</string>
+    <string name="title_activity_view_maps">Map</string>
+    <string name="title_activity_destination">Map</string>
+</resources>
